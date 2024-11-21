@@ -65,7 +65,9 @@ In terms of compensation, the organization has paid out a total of $8,424,768 in
 
 ### Recommendation
 Investigate Q3 Termination Spike: Further analysis will be conducted to address causes.
+
 Focus on Retention Initiatives: Implement career development programs to lower the termination rate.
+
 Capitalize on Job Satisfaction: Sustain high satisfaction through flexible work options and recognition programs.
 Address Gender Disparity: Introduce initiatives to recruit and retain more female talent.
 
